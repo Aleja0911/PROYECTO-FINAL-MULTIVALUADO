@@ -1,0 +1,25 @@
+
+# Entornos virtuales
+.venv/
+venv/
+env/
+
+# Archivos temporales de Python
+__pycache__/
+*.pyc
+
+# Jupyter
+.ipynb_checkpoints/
+
+# MLflow
+mlruns/
+mlflow.db
+
+# Variables de entorno y credenciales
+.env
+.env.*
+
+# Archivos temporales
+.DS_Store
+Thumbs.db
+*.log
